@@ -12,7 +12,7 @@
 * 成功显示版本即为安装成功（1.3.7）
         savana --version
 ## 二、运行savana
-需要定义[config]()列表，不然运行时候会报错
+需要定义[config](https://github.com/rwj0621/savana/blob/main/contigs.chr.hg38.txt)列表，不然运行时候会报错
 
         savana --outdir /data/renweijie/Softwares/SV_tools/savana/HCC1395_HIFI \
         --tumour /data/renweijie/data/HCC1395/HCC1395_HiFi/tumor/HCC1395.GRCh38.bam \
