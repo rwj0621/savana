@@ -23,3 +23,7 @@
         --sample HCC1395 \
         --contigs /data/renweijie/Softwares/SV_tools/savana/contigs.chr.hg38.txt \
         --threads 8
+## 三、Truvari与金标准比对
+### 1. [添加VAF]
+
+        python /data/renweijie/Softwares/SV_tools/savana/step01_SAVANA_add_vaf_end_vaf.py
