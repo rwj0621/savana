@@ -12,6 +12,7 @@
 * 成功显示版本即为安装成功（1.3.7）
         savana --version
 ## 二、运行savana
+* 需要定义
 
         savana --outdir /data/renweijie/Softwares/SV_tools/savana/HCC1395_HIFI \
         --tumour /data/renweijie/data/HCC1395/HCC1395_HiFi/tumor/HCC1395.GRCh38.bam \
